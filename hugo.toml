@@ -1,0 +1,4 @@
+baseURL = 'https://kucingberas.github.io/blogiqbal/'
+locale = 'en-us'
+title = 'Blog Iqbal'
+theme = 'PaperMod'
